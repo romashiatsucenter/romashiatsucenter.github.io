@@ -1,27 +1,54 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Mal di testa, dolore cervicale e alle articolazioni",
+    "description": "Descrizione - Mal di testa, dolore cervicale e alle articolazioni.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/illustrations/img1.jpeg",
+      "width": 700,
+      "height": 700
+    }
+  },
+  {
+    "title": "Disturbi dei bambini piccoli",
+    "description": "",
+    "image": {
+      "url": "images/illustrations/img2.jpeg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Stipsi, senso di gonfiore",
+    "description": "",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/illustrations/img5.jpeg",
+      "width": 80,
+      "height": 80
+    }
+  },
+    {
+    "title": "Lombosciatalgia, pesantezza degli arti inferiori",
+    "description": "",
+    "image": {
+      "url": "images/illustrations/img4.jpeg",
+      "width": 700,
+      "height": 700
+    }
+  },
+  {
+    "title": "Gravidanza, sintomi da menopausa",
+    "description": "",
+    "image": {
+      "url": "images/illustrations/img6.jpeg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Insonnia, stress, ansia, depressione",
+    "description": "",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/illustrations/img3.jpeg",
       "width": 80,
       "height": 80
     }
