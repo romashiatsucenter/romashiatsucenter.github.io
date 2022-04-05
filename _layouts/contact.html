@@ -7,10 +7,18 @@ bodyClass: "page-contact"
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
     <div class="row justify-content-start">
         <div class="col-12 col-md-8">
-            <div class="service service-single">
-                <h1 class="title">{{page.title}}</h1>
-                {% include call.html show_button=false %}
-                <div class="content mt-4">{{content}}</div>
+            <div class="contact">
+              {% if site.data.contact %}
+                <h1 class="title">{{ page.title }}</h1>
+                {% for contact in site.data.contact %}
+                  <h3 class="contact content mt-4">{{ contact.location }}</h3>
+                  <div class="mt-2">{{ contact.text }}</div>
+                  <div><a href="{{ contact.address_url }}" target="_blank" rel="noopener noreferrer">{{ contact.address }}</a></div>
+                  <!-- <img
+                    class="mt-4 contact map-image-absolute"
+                    src="{{ contact.map_image.url | relative_url }}" alt="{{ Indirizzo dello studio di {{ contact.location }} }}" width="{{ contact.map_image.width }}" height="{{ contact.map_image.height }}" draggable="false"> -->
+                {% endfor %}
+              {% endif %}
             </div>
         </div>
     </div>

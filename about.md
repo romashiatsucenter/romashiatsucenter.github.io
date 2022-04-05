@@ -11,3 +11,11 @@ Ha lavorato per otto anni come massaggiatore e fisioterapista della riabilitazio
 Nel 1991 ha lavorato nel centro “Shiatsu & Acupuncture clinic” di Toronto.
 
 Dal 1994 svolge la sua attività a Roma, dove nel 1997 ha fondato il “Roma Shiatsu Center".
+
+
+## Terapia
+La terapia ha una durata di 60 minuti.
+
+Il prezzo di una terapia nello studio di Roma è **€60**.
+
+Il prezzo di una terapia nello studio di San Felice Circeo è **€50**.

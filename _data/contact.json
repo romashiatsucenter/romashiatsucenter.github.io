@@ -1,0 +1,24 @@
+[
+  {
+    "location": "Roma",
+    "text": "Lo studio principale è in zona Eur Papillo (Colle Parnaso).",
+    "address": "Via Gide 5, Roma (RM) 00143.",
+    "address_url": "https://goo.gl/maps/WRnFzopJDFmrPA5y8",
+    "map_image": {
+      "url": "images/map_rome.png",
+      "width": 700,
+      "height": 500
+    }
+  },
+  {
+    "location": "San Felice Circeo (LT)",
+    "text": "Il terapista ha inoltre uno studio a San Felice Circeo.",
+    "address": "Viale Alcide de Gasperi 31, San Felice Circeo (LT) 04017.",
+    "address_url": "https://goo.gl/maps/RP2f67AUunFtvrFd8",
+    "map_image": {
+      "url": "images/map_sfc.png",
+      "width": 700,
+      "height": 500
+    }
+  }
+]

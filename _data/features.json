@@ -1,7 +1,9 @@
 [
   {
-    "title": "Mal di testa, dolore cervicale e alle articolazioni",
-    "description": "Descrizione - Mal di testa, dolore cervicale e alle articolazioni.",
+    "issues": [
+      "Mal di testa",
+      "Dolore cervicale e alle articolazioni"
+    ],
     "image": {
       "url": "images/illustrations/img1.jpeg",
       "width": 700,
@@ -9,8 +11,9 @@
     }
   },
   {
-    "title": "Disturbi dei bambini piccoli",
-    "description": "",
+    "issues": [
+      "Disturbi dei bambini piccoli"
+    ],
     "image": {
       "url": "images/illustrations/img2.jpeg",
       "width": 80,
@@ -18,8 +21,10 @@
     }
   },
   {
-    "title": "Stipsi, senso di gonfiore",
-    "description": "",
+    "issues": [
+      "Stipsi",
+      "Senso di gonfiore"
+    ],
     "image": {
       "url": "images/illustrations/img5.jpeg",
       "width": 80,
@@ -27,8 +32,11 @@
     }
   },
     {
-    "title": "Lombosciatalgia, pesantezza degli arti inferiori",
-    "description": "",
+    "issues": [
+      "Lombosciatalgia",
+      "Alluce valgo",
+      "Pesantezza degli arti inferiori"
+    ],
     "image": {
       "url": "images/illustrations/img4.jpeg",
       "width": 700,
@@ -36,8 +44,10 @@
     }
   },
   {
-    "title": "Gravidanza, sintomi da menopausa",
-    "description": "",
+    "issues": [
+      "Gravidanza",
+      "Sintomi da menopausa"
+    ],
     "image": {
       "url": "images/illustrations/img6.jpeg",
       "width": 80,
@@ -45,8 +55,12 @@
     }
   },
   {
-    "title": "Insonnia, stress, ansia, depressione",
-    "description": "",
+    "issues": [
+      "Ansia",
+      "Insonnia",
+      "Depressione",
+      "Stress"
+    ],
     "image": {
       "url": "images/illustrations/img3.jpeg",
       "width": 80,

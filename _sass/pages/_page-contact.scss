@@ -1,0 +1,32 @@
+.page-contact {
+  .content {
+    > h3 {
+      &:first-of-type {
+        font-size: 1.6rem;
+        line-height: 1.4;
+        margin-bottom: 40px;
+        font-weight: regular;
+        color: rgb(104, 104, 104);
+      }
+    }
+  }
+  .map-image {
+    width: 100%;
+    height: auto;
+  }
+  .map-image-absolute {
+    padding: 0;
+    margin-bottom: 30px;
+    @include media-breakpoint-up(sm) {
+    }
+    @include media-breakpoint-up(md) {
+      width: 300px;
+    }
+    @include media-breakpoint-up(lg) {
+      width: 700px;
+    }
+    @include media-breakpoint-up(xl) {
+      width: 1000px;
+    }
+  }
+}
