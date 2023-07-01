@@ -16,8 +16,8 @@ Dal 1994 svolge la sua attività a Roma, dove nel 1997 ha fondato il “Roma Shi
 ## Terapia
 La terapia ha una durata di circa 60 minuti.
 
-Il prezzo di una terapia nello studio di Roma è **€60**.
+Il prezzo di una terapia nello studio di Roma è **€70**.
 
-Il prezzo di una terapia nello studio di San Felice Circeo è **€50**.
+Il prezzo di una terapia nello studio di San Felice Circeo è **€60**.
 
 **Si riceve esclusivamente per appuntamento - per prenotare o per ulteriori informazioni, non esitate a contattarci.**
